@@ -2,4 +2,4 @@
 ## Requiments:
 - OAuth clientId
 - OAuth domain
--.env file to protect the information above
+- .env file to protect the information above
